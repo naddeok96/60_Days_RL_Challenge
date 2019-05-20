@@ -1,55 +1,7 @@
-
-![](images/logo5.png)
-
-![](https://img.shields.io/badge/Uploaded-100%25-green.svg)  
-
-
-### I designed this Challenge for you and me: Learn Deep Reinforcement Learning in Depth in 60 days!!
-
-You heard about the amazing results achieved by [Deepmind with AlphaGo Zero](https://www.youtube.com/watch?time_continue=24&v=tXlM99xPQC8) and by [OpenAI in Dota 2](https://www.youtube.com/watch?v=l92J1UvHf6M)! Don't you want to know how they work?
-This is the right opportunity for you and me to finally learn Deep RL and use it on new exciting projects.
-
-> The ultimate aim is to use these general-purpose technologies and apply them to all sorts of important real world problems.
-> **Demis Hassabis**
-
-This repository wants to guide you through the Deep Reinforcement Learning algorithms, from the most basic ones to the highly advanced AlphaGo Zero. You will find the **main topics organized by week** and the **resources suggested to learn them**. Also, every week I will provide **practical examples** implemented in python to help you better digest the theory. You are highly encouraged to modify and play with them!
-
-<br>
-
-**Stay tuned** [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/andri27_it) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/andri27-ts)
-#### #60DaysRLChallenge
-
-Now we have also a [**Slack channel**](https://60daysrlchallenge.slack.com/). To get an invitation, email me at andrea.lonza@gmail.com
-
-This is my first project of this kind, so please, if you have any idea, suggestion or improvement contact me at andrea.lonza@gmail.com.
-
-
-To learn Deep Learning, Computer Vision or Natural Language Processing [check my 1-Year-ML-Journey](https://github.com/andri27-ts/1-Year-ML-Journey)
-
-### Prerequisites
-* Basic level of Python and PyTorch
-* [Machine Learning](https://github.com/andri27-ts/1-Year-ML-Journey)
-* [Basic knowledge in Deep Learning (MLP, CNN and RNN)](https://github.com/andri27-ts/1-Year-ML-Journey)
-
-## Index
- - **[Week 1 - Introduction](https://github.com/andri27-ts/60_Days_RL_Challenge#week-1---introduction)**
- - **[Week 2 - RL Basics](https://github.com/andri27-ts/60_Days_RL_Challenge#week-2---rl-basics-mdp-dynamic-programming-and-model-free-control)**
- - **[Week 3 - Value Function Approximation and DQN](https://github.com/andri27-ts/60_Days_RL_Challenge#week-3---value-function-approximation-and-dqn)**
- - **[Week 4 - Policy gradient methods and A2C](https://github.com/andri27-ts/60_Days_RL_Challenge#week-4---policy-gradient-methods-and-a2c)**
- - **[Week 5 - Advanced Policy Gradients - TRPO & PPO](https://github.com/andri27-ts/60_Days_RL_Challenge#week-5---advanced-policy-gradients---trpo--ppo)**
- - **[Week 6 - Evolution Strategies and Genetic Algorithms](https://github.com/andri27-ts/60_Days_RL_Challenge#week-6---evolution-strategies-and-genetic-algorithms)**
- - **[Week 7 - Model-Based reinforcement learning](https://github.com/andri27-ts/60_Days_RL_Challenge#week-7---model-based-reinforcement-learning)**
- - **[Week 8 - Advanced Concepts and Project Of Your Choice](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#week-8---advanced-concepts-and-project-of-your-choice)**
- - **[Last 4 days - Review + Sharing](https://github.com/andri27-ts/60_Days_RL_Challenge/blob/master/README.md#last-4-days---review--sharing)**
- - **[Best resources](https://github.com/andri27-ts/60_Days_RL_Challenge#best-resources)**
- - **[Additional resources](https://github.com/andri27-ts/60_Days_RL_Challenge#additional-resources)**
-
-<br>
-
 ## Week 1 - Introduction
 
-~~- **[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights**~~
-~~- **[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine**~~
+- **~~[An introduction to Reinforcement Learning](https://www.youtube.com/watch?v=JgvyzIkgxF0) by Arxiv Insights~~**
+- **~~[Introduction and course overview](https://www.youtube.com/watch?v=Q4kF8sfggoI&index=1&list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) - CS294 by Levine~~**
 - **[Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) by Karpathy**
 
 ---
