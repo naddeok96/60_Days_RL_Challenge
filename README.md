@@ -9,7 +9,7 @@
 #### Suggested
 
 - Great introductory paper: ~~[Deep Reinforcement Learning: An Overview]~~(https://www.groundai.com/project/deep-reinforcement-learning-an-overview/)
-- Start coding: [From Scratch: AI Balancing Act in 50 Lines of Python](https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
+- Start coding: ~~[From Scratch: AI Balancing Act in 50 Lines of Python]~~(https://towardsdatascience.com/from-scratch-ai-balancing-act-in-50-lines-of-python-7ea67ef717)
 
 <br>
 
