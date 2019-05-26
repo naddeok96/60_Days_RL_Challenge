@@ -24,7 +24,7 @@ This week, we will learn about the basic blocks of reinforcement learning, start
 
 ### Theoretical material
 
-* **[Markov Decision Process](https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)** RL by David Silver
+* **~~[Markov Decision Process]~~(https://www.youtube.com/watch?v=lfHX2hHRMVQ&list=PLzuuYNsE1EZAXYR4FJ75jcJseBmo4KQ9-&index=2)** RL by David Silver
   * Markov Processes
   * Markov Decision Processes
 
